@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PocGrpc", "PocGrpc\PocGrpc.csproj", "{384C1F48-A781-4031-9334-1EC77C017B9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PocgRPC.Client", "PocgRPC.Client\PocgRPC.Client.csproj", "{7BA30BB6-2A19-44BC-85AB-BB9E2AA682DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{384C1F48-A781-4031-9334-1EC77C017B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384C1F48-A781-4031-9334-1EC77C017B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384C1F48-A781-4031-9334-1EC77C017B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384C1F48-A781-4031-9334-1EC77C017B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA30BB6-2A19-44BC-85AB-BB9E2AA682DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA30BB6-2A19-44BC-85AB-BB9E2AA682DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA30BB6-2A19-44BC-85AB-BB9E2AA682DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA30BB6-2A19-44BC-85AB-BB9E2AA682DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {732A3FAB-0DDD-4A94-9BF9-2273BCF74D53}
+	EndGlobalSection
+EndGlobal
